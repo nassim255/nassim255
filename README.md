@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">📚 I'm currently learning...<br>🎯 Goals: Aspiring to be a top freelancer.</h4>
+<h2 align="left">📚 I'm currently learning...<br>🎯 Goals: Aspiring to be a top freelancer.</h2>
 
 ###
 
