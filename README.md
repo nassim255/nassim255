@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nassim Nedjmeddine Kherfouchi, I'm a first-year Microelectronics Engineering student with a passion for IC design  and I'm a Front-End Developer with a passion for learning and improving my skills all times , From Algerie.</p>
+<p align="left">My name is Nassim Nedjemeddine Kherfouchi, I'm a second year Microelectronics Engineering student with a passion for IC design  and I'm a Front-End Developer with a passion for learning and improving my skills all times , From Algerie.</p>
 
 ###
 
