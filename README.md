@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nassim Nedjemeddine Kherfouchi, I'm a second year Microelectronics Engineering student with a passion for IC design  and I'm a Front-End Developer with a passion for learning and improving my skills all times , From Algerie.</p>
+<p align="left">I'm Nassim Nedjemeddine Kherfouchi, a Microelectronics Engineering student from Algeria and a passionate Front-End Developer. I have experience in HTML, CSS, JavaScript, and Bootstrap, with a strong focus on building responsive and user-friendly websites. I've completed seven front-end projects, demonstrating my ability to create modern, efficient, and visually appealing web applications. I'm always eager to learn and improve my skills, ready to take on new challenges in front-end development.</p>
 
 ###
 
