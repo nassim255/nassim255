@@ -4,12 +4,12 @@
 
 <p align="left">I'm Nassim Nedjemeddine Kherfouchi, a Microelectronics Engineering student specializing in Integrated Circuit Design. My studies focus on designing and analyzing electronic circuits.
 
-Alongside my academic journey, I have developed a strong passion for front-end development. I have successfully completed seven front-end projects, gaining experience in HTML, CSS, JavaScript, Bootstrap, and website design. Currently, I am expanding my knowledge by learning full-stack development to enhance my skills in web applications.
+<br>Alongside my academic journey, I have developed a strong passion for front-end development. I have successfully completed seven front-end projects, gaining experience in HTML, CSS, JavaScript, Bootstrap, and website design. Currently, I am expanding my knowledge by learning full-stack development to enhance my skills in web applications.
 
-Skills & Interests
-✅ Front-End Development: HTML, CSS, JavaScript, Bootstrap
-✅ Microelectronics & IC Design: Circuit Design, Semiconductors, Embedded Systems
-✅ Currently Learning: Full-Stack Development</p>
+<br>Skills & Interests
+<br>✅ Front-End Development: HTML, CSS, JavaScript, Bootstrap
+<br>✅ Microelectronics & IC Design: Circuit Design, Semiconductors, Embedded Systems
+<br>✅ Currently Learning: Full-Stack Development</p>
 
 ###
 
