@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">I'm Nassim Nedjemeddine Kherfouchi, a Microelectronics Engineering student from Algeria and a passionate Front-End Developer. I have experience in HTML, CSS, JavaScript, and Bootstrap, with a strong focus on building responsive and user-friendly websites. I've completed seven front-end projects, demonstrating my ability to create modern, efficient, and visually appealing web applications. I'm always eager to learn and improve my skills, ready to take on new challenges in Full Stack Web Development.</p>
+<p align="left">I'm Nassim Nedjemeddine Kherfouchi, a Microelectronics Engineering student specializing in Integrated Circuit Design. My studies focus on designing and analyzing electronic circuits.
+
+Alongside my academic journey, I have developed a strong passion for front-end development. I have successfully completed seven front-end projects, gaining experience in HTML, CSS, JavaScript, Bootstrap, and website design. Currently, I am expanding my knowledge by learning full-stack development to enhance my skills in web applications.
+
+Skills & Interests
+✅ Front-End Development: HTML, CSS, JavaScript, Bootstrap
+✅ Microelectronics & IC Design: Circuit Design, Semiconductors, Embedded Systems
+✅ Currently Learning: Full-Stack Development</p>
 
 ###
 
