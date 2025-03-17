@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/k-n-n-7792a013b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discordapp.com/users/thepunisher911" target="_blank">
+  <a href="https://discordapp.com/users/nassim255" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/simou__255" target="_blank">
